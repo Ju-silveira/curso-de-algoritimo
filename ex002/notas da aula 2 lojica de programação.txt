@@ -1,0 +1,19 @@
+        tipos primitivos
+inteiro    ex: 1   3   -5   198   0
+real       ex: 0.5  5.0  9.8  -77.3   3.1415
+caractere  ex: "julio"  "gustavo" "123"
+logico     ex: verdadeiro  falso
+
+    os tipos primitivos deven ser usados pra 
+rotilar o tipo de informasão que esta sendo 
+guardada na variavel
+
+        comando se saida
+escreva("msg") : resultado = msg
+escreva(msg)   : resultado = olá julio
+escreva("mensagem", msg) : resultado = mensagem olá julio
+
+    tudo a quele que estiver dentro de aspas 
+não sera tratado como variavel e nem função 
+mais apenas como uma secuensia de caractere
+então sua variavel deve estar fora das aspas
